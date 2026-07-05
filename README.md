@@ -1,16 +1,22 @@
-## Hi there 👋
+Привет, я Полина!
+Я студентка Московского Политеха, учусь на направлении «Веб-технологии» и активно развиваюсь в сторону DevOps. Мне нравится работать с инфраструктурой, автоматизировать рутину и разбираться в том, как всё работает «под капотом».
 
-<!--
-**plnchss/plnchss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой стек технологий
+Back-end: Python (Django), PHP (Laravel, Filament).
+Инфраструктура: Linux, Bash (автоматизация задач), Docker.
+Front-end: JavaScript, TypeScript, Vue.js (в рамках учебных набросков).
+Networking & Troubleshooting: анализ сетевого трафика (Wireshark), диагностика сетевых соединений (Ping, Traceroute, Netstat, IP), понимание модели OSI и основ протоколов (TCP/IP, HTTP/HTTPS).
+Иностранные языки: Английский (B2).
 
-Here are some ideas to get you started:
+Проекты
+В моем профиле вы можете найти примеры моих работ:
+Django: Сайт для онлайн-голосований (учебный проект).
+Laravel: Новостной портал  и личный сайт репетитора (backend-first с использованием Filament).
+Bash: Лабораторные работы по администрированию Linux.
+TypeScript/JS/Vue: Учебные прототипы и наброски.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В разработке
+Сейчас я работаю над проектом в рамках университетской деятельности — автоматизация процессов для студентов-переводников. Мы создаем сервис на Python + Vue, который избавляет студентов от бумажной рутины. Проект в активной разработке, скоро он будет интегрирован в экосистему университета!
+
+Как со мной связаться
+Tg: @plnchss
