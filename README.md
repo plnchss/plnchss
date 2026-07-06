@@ -8,35 +8,33 @@
 
 <hr>
 
-<h2 align="center"> Мой стек технологий</h2>
+##  Мой стек технологий
 
-<ul>
-  <li><b>Back-end:</b> Python (Django), PHP (Laravel, Filament), азы C++</li>
-  <li><b>Инфраструктура:</b> Linux, Bash (автоматизация задач), Docker</li>
-  <li><b>Front-end:</b> JavaScript, TypeScript, Vue.js, HTML5 & CSS3</li>
-  <li><b>Networking & Troubleshooting:</b> анализ сетевого трафика (Wireshark), диагностика сетевых соединений (Ping, Traceroute, Netstat, IP), понимание модели OSI и основ протоколов (TCP/IP, HTTP/HTTPS)</li>
-  <li><b>Иностранные языки:</b> Английский (B2)</li>
-</ul>
+- **Back-end:** Python (Django), PHP (Laravel, Filament), азы C++
+- **Инфраструктура:** Linux, Bash (автоматизация задач), Docker
+- **Front-end:** JavaScript, TypeScript, Vue.js, HTML5 & CSS3
+- **Networking & Troubleshooting:** Wireshark, диагностика сетевых соединений (Ping, Traceroute, Netstat, IP), понимание модели OSI и протоколов (TCP/IP, HTTP/HTTPS)
+- **Иностранные языки:** Английский (B2)
 
 <hr>
 
-<h2 align="center"> Проекты</h2>
+##  Проекты
 
-<p>В моем профиле вы можете найти примеры моих работ:</p>
-<ul>
-  <li><b>Django:</b> Сайт для онлайн-голосований (учебный проект).</li>
-  <li><b>Laravel:</b> Новостной портал и личный сайт репетитора (backend-first с использованием Filament).</li>
-  <li><b>Bash:</b> Лабораторные работы по администрированию Linux.</li>
-  <li><b>TypeScript/JS/Vue:</b> Учебные прототипы и наброски.</li>
-</ul>
+В моем профиле вы можете найти примеры моих работ:
+
+- **[Django: Система голосований](https://github.com/plnchss/django-voting-platform)** — учебный проект для проведения онлайн-голосований.
+- **[Laravel: Tutor Platform](https://github.com/plnchss/tutor-platform)** — прототип системы репетитора с админкой на FilamentPHP.
+- **[Laravel: News Portal](https://github.com/plnchss/laravel-news-portal)** — новостной портал с функционалом для управления статьями.
+- **[Laravel: Inventory Manager](https://github.com/plnchss/laravel-inventory-manager)** — система управления инвентарем.
+- **[Bash Automation Labs](https://github.com/plnchss/linux-labs)** — лабораторные работы по системному администрированию Linux.
+- **TypeScript/JS/Vue:** - Помимо вышеперечисленного я занималась разработкой адаптивных интерфейсов (HTML5/CSS3) и компонентов на Vue.js/TypeScript. 
+* *Примечание:* Я не опубликовала эти работы как полноценные проекты, так как они носят учебный характер и сфокусированы на отработке навыков (адаптив под разные форматы устройств, работа с компонентами, верстка по макету). 
 
 <hr>
 
-<h2 align="center"> В разработке</h2>
+##  В разработке
 
-<p>
-  Сейчас я работаю над проектом в рамках университетской деятельности — <b>автоматизация процессов для студентов-переводников</b>. Мы создаем сервис на Python + Vue, который избавляет студентов от бумажной рутины. Проект в активной разработке, скоро он будет интегрирован в экосистему университета!
-</p>
+Сейчас я работаю над проектом в рамках университетской деятельности — **автоматизация процессов для студентов-переводников**. Мы создаем сервис на Python + Vue, который избавляет студентов от бумажной рутины. Проект в активной разработке, и скоро будет введен в эксплуатацию!
 
 <hr>
 
