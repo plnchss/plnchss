@@ -10,7 +10,7 @@
 
 ##  Мой стек технологий
 
-- **Back-end:** Python (Django), PHP (Laravel, Filament), азы C++
+- **Back-end:** Python (Django), PHP (Laravel, Filament), Golang, азы C
 - **Инфраструктура:** Linux, Bash (автоматизация задач), Docker
 - **Front-end:** JavaScript, TypeScript, Vue.js, HTML5 & CSS3
 - **Networking & Troubleshooting:** Wireshark, диагностика сетевых соединений (Ping, Traceroute, Netstat, IP), понимание модели OSI и протоколов (TCP/IP, HTTP/HTTPS)
