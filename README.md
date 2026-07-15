@@ -10,11 +10,11 @@
 
 ##  Мой стек технологий
 
-- **Back-end:** Python (Django), PHP (Laravel, Filament), Golang, азы C
-- **Инфраструктура:** Linux, Bash (автоматизация задач), Docker
+- **Infrastructure & DevOps:** Linux (Ubuntu), Bash, Docker, Git
+- **Back-end & Databases:** Python (Django), PHP (Laravel), Go (Golang), PostgreSQL
+- **Networking & Tools:** Wireshark, Cisco Packet Tracer, диагностика соединений (Ping, Traceroute, Netstat), модель OSI, TCP/IP, DNS
 - **Front-end:** JavaScript, TypeScript, Vue.js, HTML5 & CSS3
-- **Networking & Troubleshooting:** Wireshark, диагностика сетевых соединений (Ping, Traceroute, Netstat, IP), понимание модели OSI и протоколов (TCP/IP, HTTP/HTTPS)
-- **Иностранные языки:** Английский (B2)
+- **Languages:** Английский (B2, TOEFL)
 
 <hr>
 
